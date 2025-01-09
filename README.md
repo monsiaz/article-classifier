@@ -68,36 +68,7 @@ This repository provides a Python script (`script.py`) designed to **classify ne
 4. **Check the final result**:
    - Open `/Users/simonazoulay/Codes/articles_to_classify.csv` to see the updated classification.
 
----
 
-## Git Workflow
-
-Below are some common Git commands you might use to manage development:
-
-- **Check status of your local repo**:
-    ```bash
-    git status
-    ```
-
-- **Stage changes** (e.g., script updates):
-    ```bash
-    git add /Users/simonazoulay/Codes/script.py
-    ```
-
-- **Commit changes with a meaningful message**:
-    ```bash
-    git commit -m "Improve prompt logic and fix CSV parsing"
-    ```
-
-- **Push changes to the remote repository**:
-    ```bash
-    git push origin main
-    ```
-
-- **Pull latest updates from remote**:
-    ```bash
-    git pull origin main
-    ```
 
 ---
 
