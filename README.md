@@ -53,9 +53,8 @@ This repository provides a Python script (`script.py`) designed to **classify ne
 
 1. **Clone** this repository:
     ```bash
-    git clone https://github.com/YourUserName/article-classification.git
+    git clone https://github.com/monsiaz/article-classification.git
     ```
-    *(Replace `YourUserName` with your actual GitHub username or the repository link.)*
 
 2. **Navigate to the project folder**:
     ```bash
