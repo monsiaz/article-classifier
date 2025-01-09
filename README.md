@@ -49,37 +49,6 @@ This repository provides a Python script (`script.py`) designed to **classify ne
 
 ---
 
-## Installation
-
-1. **Clone** this repository:
-    ```bash
-    git clone https://github.com/monsiaz/article-classification.git
-    ```
-
-2. **Navigate to the project folder**:
-    ```bash
-    cd article-classification
-    ```
-
-3. *(Optional)* **Create a virtual environment**:
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate  # For Unix-like systems
-    # On Windows:
-    # .venv\Scripts\activate
-    ```
-
-4. **Install required packages** (if any, besides the standard library, e.g., pandas):
-    ```bash
-    pip install pandas
-    ```
-
-5. **Ensure you have**:
-   - Ollama installed.
-   - The CSV files in the correct paths as mentioned above.
-
----
-
 ## Usage
 
 1. **Place your CSV files**:
